@@ -23,8 +23,8 @@ This project is still under development and next updates will focus about on the
 - [x] Build the quiz
 - [x] Organize the structure of the pages
 - [x] Setting up quiz operation
-- [ ] Stylize each page
-- [ ] Add some animation effects
+- [x] Stylize each page
+- [x] Add some animation effects
 
 ## 💻 Requirements
 
