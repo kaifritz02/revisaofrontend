@@ -5,11 +5,11 @@
   Vamos declarar variáveis no JavaScript?
 */
 
-const a = document.querySelector("sign");
+var button = document.querySelector("button");
 
 
-a.onclick = function() {
- 
-    window.location="aula1.html";
 
-};
+button.onclick = function () {
+    window.location="questao2.html";
+  
+  }
